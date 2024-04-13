@@ -10,7 +10,7 @@ const Education = () => {
 
     <div>
         <div className='py-12 font-titleFont flex flex-col gap-4'>
-          <p className='text-sm text-designColor tracking-[4px]'>1998-2010</p>
+          <p className='text-sm text-designColor tracking-[4px]'>2011-2019</p>
           <h2 className='text-4xl font-bold'>Education Qualification</h2>
         </div>
         <div className='mt-14 w-[1180px] h-[600px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10'>
@@ -22,7 +22,7 @@ const Education = () => {
             />
             <ResumeCard
               title="B.Tech in Information Technology"
-              subTitle="SuperKing College (2001 - 2005)"
+              subTitle="SuperKing College (2011 - 2015)"
               result="6.77/10"
               des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
             />
